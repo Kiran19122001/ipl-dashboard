@@ -1,0 +1,64 @@
+.comp-logo {
+    height: 150px;
+    width: 150px;
+    margin-top: 51px;
+    margin-left: 500px;
+    margin-bottom: 53px;
+}
+
+.first-inngs {
+    background: #1e293b;
+    border-radius: 20px;
+    padding: 15px 10px 10px 40px;
+}
+
+.image-cont {
+    display: flex;
+}
+
+.comp-team {
+    color: #ffffff;
+}
+
+.matter {
+    width: 646px;
+    margin-top: -195px;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.date {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.biggers {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.smallers {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.matter-two {
+    margin-top: 10px;
+    background: #1e293b;
+    border-radius: 20px;
+    padding: 15px 10px 10px 40px;
+}
+
+.win-loss {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    padding-left: 50px;
+}
+
+.win-loss::after {
+    content: '';
+    flex: auto;
+}

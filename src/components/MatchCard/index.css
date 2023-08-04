@@ -1,0 +1,45 @@
+.list-matches {
+    list-style: none;
+    height: 400px;
+    width: 400px;
+    background-color: #0f172a;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.thubmNail {
+    height: 120px;
+    width: 120px;
+}
+
+.head-big-comp {
+    font-size: 30px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.status {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.green {
+    color: rgb(14, 185, 14);
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.red {
+    color: red;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.list-div {
+    width: 33%;
+}
